@@ -1,8 +1,8 @@
 ### Hi there, I'm Sydney Glass - Glazier
 ##I'm My Own Glass Repair Company based in sydney. Contact Me for glass Repair.
 
-- ?? We provide Residential and commercial cleaning services.
-- ?? I’m currently learning everything ??
+- ?? We provide Glass Repair & Glass Replacement services to the sydney area.
+- ?? We're the Cheapest and We'll Beat any price.
 - ?? I’m looking to collaborate with other content creators
 - ?? 2020 Goals: Contribute more to Open Source projects
 - ? Fun fact: I love to draw and play guitar / drums

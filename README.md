@@ -1,5 +1,5 @@
-### Hi there, I'm Harrison Burg - aka Professional housemaid ??
-## I'm own a professional cleaning company, interested in cutting edge technology and coding.
+### Hi there, I'm Sydney Glass - Glazier
+##I'm My Own Glass Repair Company based in sydney. Contact Me for glass Repair.
 
 - ?? We provide Residential and commercial cleaning services.
 - ?? I’m currently learning everything ??

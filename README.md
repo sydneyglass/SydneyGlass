@@ -27,7 +27,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-?? [more blog posts...](https://about.me/harrisonburg)
+?? [more blog posts...]about.me
 
 ---
 

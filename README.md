@@ -32,8 +32,8 @@
 ---
 
 
-[website]: www.sydneyglassinstallations.com.au
+[website]: https://www.sydneyglassinstallations.com.au
 [twitter]: https://twitter.com/GlassRepairssy1
-[youtube]: https://www.youtube.com/feeds/videos.xml?channel_id=UC7ni0fjT1AplEWjEq01yX-g
-##[instagram]: https://instagram.com/harrisonburgva
-##[linkedin]: https://linkedin.com/in/harrisonburgva
+[youtube]:https://www.youtube.com/channel/UC7ni0fjT1AplEWjEq01yX-g
+//[instagram]: https://instagram.com/harrisonburgva
+//[linkedin]: https://linkedin.com/in/harrisonburgva

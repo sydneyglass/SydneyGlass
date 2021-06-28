@@ -13,4 +13,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "10"
-          feed_list: "https://glassrepairssydney.weebly.com/1/feed,https://glass-reparis-sydney.tumblr.com/rss,glassrepairssydney.wordpress.com/feed,https://glassrepairssydney.blogspot.com/feeds/posts/default,https://www.youtube.com/feeds/videos.xml?channel_id=UCSpnis4BXVy4POEfQSLkmqA"
+          feed_list: "https://glass-reparis-sydney.tumblr.com/rss"

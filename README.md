@@ -25,6 +25,8 @@
 ### ?? Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Had to share this @WeHeartIt](https://glass-reparis-sydney.tumblr.com/post/656628972011028480)
+- [Had to share this @WeHeartIt](https://glass-reparis-sydney.tumblr.com/post/656628955227537408)
 - [Glass Replacement Sydney](https://glass-reparis-sydney.tumblr.com/post/655231864356978688)
 - [Glass window repairs - Is it cheaper to replace glass or whole window?](https://glass-reparis-sydney.tumblr.com/post/654491990142140416)
 - [Window Glass Repairs - Repairing a broken window](https://glass-reparis-sydney.tumblr.com/post/654481033927049216)
